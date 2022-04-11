@@ -1,0 +1,19 @@
+.pemesanan{
+    background: url('img/rawon.png');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.box{
+    padding: 60px;
+    background: white;
+    width: 200px;
+    color: lightcoral;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
